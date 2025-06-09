@@ -7,9 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-**I am a Research Scientist at the Technical University DOrtmund (TU Dortmund) working on 3D Computer Vision and Robotics.
-A data-driven personal website
-**======
+I am a Researcher at the Technical University Dortmund (TU Dortmund) working on 3D Computer Vision and Robotics.  
+
+My main research topic is High speed perception for mobile robots using a combination of stereo setup of event camera and RGB camera. 
+
+## 📰 News
+
+### 2024
+- 🏆 Secured the AIF funding (Allianz for Industrie and research) for the Event camera Project.
+- EventRec Project starts
+
+### 2023
+- 📄 Published paper on "High-Speed Event-Based Vision" at CVPR 2023.
+- 💼 Internship at ABC Robotics, worked on autonomous drone navigation.
+
+### 2022
+- 🚀 Started Master's program in Germany.
+
+======
 
 Getting started
 ======
