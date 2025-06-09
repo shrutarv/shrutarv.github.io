@@ -13,7 +13,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 ## 📰 News
 
-## 2024- 🏆 Secured the AIF funding (Allianz for Industrie and research) for the Event camera Project.
+**2024**- 🏆 Secured the AIF funding (Allianz for Industrie and research) for the Event camera Project.
 - EventRec Project kick off with industrial partners.
 
 ### 2023
