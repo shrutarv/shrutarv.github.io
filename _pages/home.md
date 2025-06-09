@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Shrutar V"
+title: "Shrutarv Awasthi"
 permalink: /
 author_profile: true
 ---
