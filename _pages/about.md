@@ -12,10 +12,11 @@ I am a Researcher at the Technical University Dortmund (TU Dortmund) working on 
 My main research topic is High speed perception for mobile robots using a combination of stereo setup of event camera and RGB camera. 
 
 ## 📰 News
-
-**2024**- 🏆 Secured the AIF funding (Allianz for Industrie and research) for the Event camera Project.
-- EventRec Project kick off with industrial partners.
-
+**2025** - Published at CVPR Event based vision workshop 2025
+**2024**- 🏆 Secured the AIF funding (Allianz for Industrie & research) for the Event camera project.
+**2024** EventRec Project kick off with industrial partners.
+**2023** Logistics Research Journal
+**2022** ICPR 2022
 ### 2023
 - 📄 Published paper on "High-Speed Event-Based Vision" at CVPR 2023.
 - 💼 Internship at ABC Robotics, worked on autonomous drone navigation.
