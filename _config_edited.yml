@@ -1,0 +1,7 @@
+title: "Shrutar V"
+url: "https://shrutarv.github.io"
+baseurl: ""
+theme: minimal
+
+plugins:
+  - jekyll-include-cache
