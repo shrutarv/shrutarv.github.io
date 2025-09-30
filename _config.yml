@@ -23,13 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Shrutarv Awasthi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics/Computer Vision"
+  location         : "Dortmund, Germany"
+  Nationality      : Indian
+  employer         : "TU DOrtmund"
+  work             : "https://flw.mb.tu-dortmund.de/staff/team/shrutarv-awasthi/"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shrutarv.awasthi@gmail.com" 
 
   # Academic websites
   academia         : # URL
