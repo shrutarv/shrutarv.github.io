@@ -20,7 +20,7 @@ My main research topic is High speed perception for mobile robots using a combin
 <li><strong>[August 2024]</strong> 🏆 Secured the AIF funding (Allianz for Industrie & research) for the Event camera project.</li>
 <li><strong>[September 2023]</strong> Published at Logistics Journal: Micro UAV swarm for industrial applications in indoor environment: a systematic literature review</li>
 <li><strong>[2022]</strong> Published at ICPR: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
-
+<li><strong>[2022]UAVs for industries and supply chain management</li>
   
 </ul>
 ##  News
