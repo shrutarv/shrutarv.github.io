@@ -1,12 +1,10 @@
 ---
 permalink: /
-title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![Profile picture](/images/shrutarv.jpg)
 
 I am a Researcher at the Technical University Dortmund (TU Dortmund) working on 3D Computer Vision and Robotics.  
 
