@@ -13,10 +13,10 @@ My main research topic is High speed perception for mobile robots using a combin
 ## 📰Updates 
 
 <ul class="medium">
-<li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong>strong></li>
+<li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
 <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
 <li>[March 2025] MTevent paper accepted at <strong> CVPR – Event Vision workshop</strong>strong></li>
-<li><strong>[October 2024]</strong> Our EventRec Project on high speed robot perception officially started with industrial partners.</li>
+<li>[October 2024] Our EventRec Project on high speed robot perception officially started with industrial partners.</li>
 <li><strong>[August 2024]</strong> 🏆 Secured the AIF funding (Allianz for Industrie & research) for the Event camera project.</li>
 <li>[September 2023] Published at Logistics Journal: Micro UAV swarm for industrial applications in indoor environment: a systematic literature review</li>
 <li>[2022] Published at <strong>ICPR </strong>strong>: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
