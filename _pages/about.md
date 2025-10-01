@@ -12,7 +12,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 ## 📰Updates 
 
-<ul class="medium">
+<ul class="small">
 <li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
 <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
 <li>[March 2025] MTevent paper accepted at <strong> CVPR – Event Vision workshop</strong></li>
