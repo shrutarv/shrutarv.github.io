@@ -61,7 +61,7 @@ My main research topic is High speed perception for mobile robots using a combin
       <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
     </p>
   </div>
-  </div>
+  
 <strong>Publications</strong> 
 
 <!-- MTevent 
