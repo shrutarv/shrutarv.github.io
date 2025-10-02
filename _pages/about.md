@@ -145,7 +145,7 @@ My main research topic is High speed perception for mobile robots using a combin
     Human UAV Collaboration in Warehousing <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
-    TU Dortmund & Lamarr Institute · (2020 – Ongoing)
+    TU Dortmund (2021 – 2024)
   </p>
   <p style="margin:0.25rem 0 1rem 0;">
     <a href="https://github.com/AnasIbrahim/image_agnostic_segmentation" target="_blank" rel="noopener"
