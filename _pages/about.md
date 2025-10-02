@@ -23,8 +23,5 @@ My main research topic is High speed perception for mobile robots using a combin
 <li>[September 2022] Presented at MHCL: UAVs for industries and supply chain management</li>
   
 </ul
-### 2022
-- 🚀 Started Master's program in Germany.
-
 ======
 
