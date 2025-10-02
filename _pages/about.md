@@ -79,10 +79,10 @@ My main research topic is High speed perception for mobile robots using a combin
       <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">3D Detection</span>
     </div>
   </div>
-### Publications
+<strong>Publications</strong> 
 
-<!-- MTevent -->
-<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+<!-- MTevent 
+<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);"> -->
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
@@ -122,7 +122,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </p>
   </div>
-</div>
+
 </div>
 
 
