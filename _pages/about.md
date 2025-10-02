@@ -67,10 +67,11 @@ My main research topic is High speed perception for mobile robots using a combin
 <!-- MTevent 
 <div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);"> -->
   <!-- Left: 2:3 image box -->
-  <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-    <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
-         style="width:50%; height:50%; object-fit:contain;">
-  </div>
+  <div class="pub-thumb" style="position:relative; display:inline-block; background:#f9f9f9; border-radius:6px; overflow:hidden;">
+  <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
+       style="max-width:100%; height:auto; display:block;">
+</div>
+
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
