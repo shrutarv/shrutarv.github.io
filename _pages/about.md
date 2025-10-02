@@ -123,7 +123,7 @@ My main research topic is High speed perception for mobile robots using a combin
     </h3>
     <!-- Authors -->
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      Shrutarv Awasthi, Richard Julian Lodenkaemper, <strong>Anas Gouda</strong>, Moritz Roidl
+      <strong>Shrutarv Awasthi</strong>strong>, Richard Julian Lodenkaemper, Anas Gouda, Moritz Roidl
     </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
       TU Dortmund
