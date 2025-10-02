@@ -62,10 +62,9 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>
   </div>
   
-<strong>Publications</strong> 
+<h2>Publications</h2> 
 
 <!-- MTevent 
-<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);"> -->
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; display:inline-block; background:#f9f9f9; border-radius:6px; overflow:hidden;">
   <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
@@ -123,7 +122,7 @@ My main research topic is High speed perception for mobile robots using a combin
     </h3>
     <!-- Authors -->
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      <strong>Shrutarv Awasthi</strong>strong>, Richard Julian Lodenkaemper, Anas Gouda, Moritz Roidl
+      <strong>Shrutarv Awasthi</strong>, Richard Julian Lodenkaemper, Anas Gouda, Moritz Roidl
     </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
       TU Dortmund
@@ -185,4 +184,4 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>
   </div>
 </div>
-
+</section>
