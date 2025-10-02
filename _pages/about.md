@@ -25,6 +25,66 @@ My main research topic is High speed perception for mobile robots using a combin
 </ul
 ======
 
+
+## Projects {#projects}
+<section class="projects">
+
+<!-- Project: EventRec -->
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <h3 style="margin:0 0 0.5rem 0;">
+    EventRec <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
+  </h3>
+  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
+    TU Dortmund · (2023 – Ongoing)
+  </p>
+  <p style="margin:0.25rem 0 1rem 0;">
+    <a href="https://flw.mb.tu-dortmund.de/research/research-projects/eventrec" target="_blank" rel="noopener"
+       style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
+      Project Page
+    </a>
+  </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+  <img src="/images_content/eventrec_cam_system.jpg" alt="EventRec camera system"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  <img src="/images_content/EventRec.jpg" alt="EventRec O³dyn robot"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">
+      I proposed the EventRec project and led it from concept to securing funding from the AIF/IGF, in close collaboration with colleagues.
+    </p>
+    <p style="margin:0.4rem 0;">
+      The project focuses on perception for high-speed robotics (e.g., the O³dyn robot) using event cameras.
+      It develops generic methods with a multi-modal stereo-event and RGB camera system for 3D detection of
+      fast-moving objects, enabling mobile robots to navigate at high speeds.
+    </p>
+    <p style="margin:0.4rem 0;">
+      <strong>Industry partners:</strong> KION, Jungheinrich, Framos and others.
+    </p>
+  </div>
+  <div class="project-meta" style="margin-top:0.9rem;">
+    <div style="margin:0.3rem 0;">
+      <strong>Published Papers:</strong>
+      <a href="{{ page.url | relative_url }}#mtevent"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
+         MTevent
+      </a>
+      <a href="{{ page.url | relative_url }}#event_roi"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
+         Event ROI
+      </a>
+    </div>
+    <div style="margin:0.3rem 0; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
+      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Event Cameras</span>
+      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">High-Speed Robotics</span>
+      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">3D Detection</span>
+    </div>
+  </div>
+</div>
+
+
 ## Publications
 
 <section class="publications">
