@@ -22,8 +22,7 @@ My main research topic is High speed perception for mobile robots using a combin
 <li>[August 2022] Presented at <strong>ICPR </strong>: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
 <li>[September 2022] Presented at MHCL: UAVs for industries and supply chain management</li>
   
-</ul
-======
+</ul>
 
 
 ## Projects
