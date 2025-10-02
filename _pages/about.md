@@ -26,7 +26,7 @@ My main research topic is High speed perception for mobile robots using a combin
 ======
 
 
-## Projects {#projects}
+## Projects
 <section class="projects">
 
 <!-- Project: EventRec -->
