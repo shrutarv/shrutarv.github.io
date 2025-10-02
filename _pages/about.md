@@ -53,15 +53,13 @@ My main research topic is High speed perception for mobile robots using a combin
   </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">
-      I proposed the EventRec project and led it from concept to securing funding from the AIF/IGF, in close collaboration with colleagues.
+      I proposed and led the EventRec project, taking it from concept to securing funding from the AIF/IGF in close collaboration with colleagues. 
     </p>
     <p style="margin:0.4rem 0;">
-      The project focuses on perception for high-speed robotics (e.g., the O³dyn robot) using event cameras.
-      It develops generic methods with a multi-modal stereo-event and RGB camera system for 3D detection of
-      fast-moving objects, enabling mobile robots to navigate at high speeds.
+      The project aims to enable high-speed robots to perceive and interact with their environment using event cameras. As project lead, I managed a small research team that created the MTEvent dataset and am currently working on developing novel methods for 3D detection of moving objects, advancing real-time perception capabilities for robots to navigate safely and efficiently in dynamic environments at high speed.
     </p>
     <p style="margin:0.4rem 0;">
-      <strong>Industry partners:</strong> KION, Jungheinrich, Framos and others.
+      <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
     </p>
   </div>
   <div class="project-meta" style="margin-top:0.9rem;">
