@@ -61,23 +61,6 @@ My main research topic is High speed perception for mobile robots using a combin
       <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
     </p>
   </div>
-  <div class="project-meta" style="margin-top:0.9rem;">
-    <div style="margin:0.3rem 0;">
-      <strong>Published Papers:</strong>
-      <a href="{{ page.url | relative_url }}#mtevent"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
-         MTevent
-      </a>
-      <a href="{{ page.url | relative_url }}#event_roi"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
-         Event ROI
-      </a>
-    </div>
-    <div style="margin:0.3rem 0; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
-      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Event Cameras</span>
-      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">High-Speed Robotics</span>
-      <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">3D Detection</span>
-    </div>
   </div>
 <strong>Publications</strong> 
 
@@ -86,7 +69,7 @@ My main research topic is High speed perception for mobile robots using a combin
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
-         style="width:100%; height:100%; object-fit:contain;">
+         style="width:50%; height:50%; object-fit:contain;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
