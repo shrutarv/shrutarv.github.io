@@ -79,8 +79,6 @@ My main research topic is High speed perception for mobile robots using a combin
       <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">3D Detection</span>
     </div>
   </div>
-</div>
-
 ### Publications
 
 <!-- MTevent -->
@@ -125,6 +123,8 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>
   </div>
 </div>
+</div>
+
 
 
 
