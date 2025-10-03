@@ -157,7 +157,7 @@ My main research topic is High speed perception for mobile robots using a combin
     TU Dortmund (2021 – 2024)
   </p>
    <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
-    <div style="overflow:hidden; border-radius:8px;">
+    <div style="width:200px; height:150px; overflow:hidden; position:relative; border:1px solid #ccc;">
       <img src="/images_content/HDI.svg" alt="HDI logo"
            loading="lazy"
            style="top:-5000px;   /* crop 50px from top */
