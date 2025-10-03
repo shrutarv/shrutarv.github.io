@@ -161,11 +161,11 @@ My main research topic is High speed perception for mobile robots using a combin
       <img src="/images_content/HDI.svg" alt="HDI logo"
            loading="lazy"
            style="top:-50px;   /* crop 50px from top */
-              left:-30px;  /* crop 30px from left */
-              right:-40px; /* crop 40px from right (via container width) */
-              bottom:-20px;/* crop 20px from bottom */
+              left:-300px;  /* crop 30px from left */
+              right:-100px; /* crop 40px from right (via container width) */
+              bottom:-60px;/* crop 20px from bottom */
               width:auto; 
-              height:180px">
+              height:280px">
     </div>
   </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
