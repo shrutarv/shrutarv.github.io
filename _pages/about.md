@@ -116,7 +116,7 @@ My main research topic is High speed perception for mobile robots using a combin
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/Event_as_ROI.png" alt="Event Camera as RPN teaser image" loading="lazy"
-         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:130%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -142,7 +142,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
       <a href="https://github.com/shrutarv/EventCamera_RPN" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:left; gap:0.35rem;">
-         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;">
+         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> GitHub
       </a>
     </p>
   </div>
@@ -156,18 +156,8 @@ My main research topic is High speed perception for mobile robots using a combin
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
     TU Dortmund (2021 – 2024)
   </p>
-  <p style="margin:0.25rem 0 1rem 0;">
-    <a href="https://github.com/AnasIbrahim/image_agnostic_segmentation" target="_blank" rel="noopener"
-       style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
-      Project Page
-    </a>
-    <a href="https://huggingface.co/spaces/anas-gouda/dounseen" target="_blank" rel="noopener"
-       style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
-       <img src="/images_content/hf-logo.png" alt="Hugging Face" style="height:24px;"> Space
-    </a>
-  </p>
-  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
-    <img src="/images_content/dounseen_logo_10.jpg" alt="DoUnseen logo"
+   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+    <img src="/images_content/HDI.svg" alt="HDI logo"
          loading="lazy"
          style="height:180px; width:auto;">
   </div>
