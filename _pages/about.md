@@ -116,7 +116,7 @@ My main research topic is High speed perception for mobile robots using a combin
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/Event_as_ROI.png" alt="Event Camera as RPN teaser image" loading="lazy"
-         style="width:100%; height:auto; transform:scale(1.3), border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; transform:scale(1.2), border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
