@@ -157,11 +157,10 @@ My main research topic is High speed perception for mobile robots using a combin
     TU Dortmund (2021 – 2024)
   </p>
    <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
-    <div style="width:300px; height:200px; overflow:hidden; position:relative; border:2px solid #999;">
-      <img src="/images_content/HDI.svg"
-       alt="Event Camera as RPN teaser image"
-       style="position:absolute; top:-50px; left:-40px; height:auto; width:auto;">
-    </div>
+    <img src="/images_content/HDI.svg" alt="HDI logo"
+       loading="lazy"
+       style="height:180px; width:auto;">
+</div>
   </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">Package for 2D segmentation of unseen objects and the main outcome of my PhD work.</p>
