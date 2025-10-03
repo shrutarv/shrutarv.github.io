@@ -160,10 +160,10 @@ My main research topic is High speed perception for mobile robots using a combin
     <div style="overflow:hidden; border-radius:8px;">
       <img src="/images_content/HDI.svg" alt="HDI logo"
            loading="lazy"
-           style="top:-50px;   /* crop 50px from top */
-              left:-300px;  /* crop 30px from left */
-              right:-100px; /* crop 40px from right (via container width) */
-              bottom:-60px;/* crop 20px from bottom */
+           style="top:-500px;   /* crop 50px from top */
+              left:-900px;  /* crop 30px from left */
+              right:-300px; /* crop 40px from right (via container width) */
+              bottom:-100px;/* crop 20px from bottom */
               width:auto; 
               height:280px">
     </div>
