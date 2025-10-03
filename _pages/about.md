@@ -114,12 +114,12 @@ My main research topic is High speed perception for mobile robots using a combin
 <!-- Event Camera as Region Proposal Network -->
 <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
- <div class="pub-thumb" style="width:100%; text-align:center; overflow:hidden;">
-  <img src="/images_content/Event_as_ROI.png" 
-       alt="Event Camera as RPN teaser image" 
-       loading="lazy"
-       style="width:130%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px; margin-left:-15%;">
-</div>
+   <div style="width:420px; height:260px; margin:0 auto; overflow:hidden; border-radius:6px; background:#f9f9f9;">
+    <img src="/images_content/Event_as_ROI.png"
+         alt="Event Camera as RPN teaser image"
+         loading="lazy"
+         style="width:100%; height:100%; object-fit:cover; object-position:center;">
+  </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
