@@ -115,14 +115,10 @@ My main research topic is High speed perception for mobile robots using a combin
 <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
-    <div style="width:100px; height:150px; overflow:hidden; position:relative; border-radius:6px;">
-
-    <!-- Image shifted inside container -->
-    <img src="/images_content/HDI.svg" alt="HDI logo"
-         loading="lazy"
-         style="position:absolute; top:-60px; left:-70px; height:auto; width:200px;">
-
-  </div></div>
+     <img src="/images_content/HDI.svg" alt="HDI logo"
+       loading="lazy"
+       style="height:180px; width:auto;">
+</div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
