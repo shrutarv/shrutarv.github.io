@@ -120,7 +120,7 @@ My main research topic is High speed perception for mobile robots using a combin
     <!-- Image shifted inside container -->
     <img src="/images_content/HDI.svg" alt="HDI logo"
          loading="lazy"
-         style="position:absolute; top:-20px; left:-30px; height:auto; width:200px;">
+         style="position:absolute; top:-60px; left:-70px; height:auto; width:200px;">
 
   </div></div>
   <!-- Right: paper info -->
