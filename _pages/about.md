@@ -162,11 +162,11 @@ My main research topic is High speed perception for mobile robots using a combin
        loading="lazy"
        style="height:180px; width:auto;">
 </div>
-  </div>
+  
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">Package for 2D segmentation of unseen objects and the main outcome of my PhD work.</p>
-    <p style="margin:0.4rem 0;">The package segments arbitrary objects from only a few images, making it broadly applicable. I focused on two applications: bin picking and grasping for mobile robots, for which dedicated datasets were collected.</p>
-    <p style="margin:0.4rem 0;">While the package itself targets segmentation, our centroid triplet loss (CTL) built on top of it achieved strong results on ArmBench. This line of work is especially relevant to logistics, where countless items must be segmented and classified, and parts have already been transferred to industry.</p>
+    <p style="margin:0.4rem 0;">This project investigates the integration of micro–unmanned aerial vehicle (UAV) swarms in indoor industrial environments, focusing on safe human–robot collaboration and perception-driven autonomy.</p>
+    <p style="margin:0.4rem 0;">A comprehensive framework and digital-twin simulation is developed to demonstrate the feasibility of UAV swarms performing logistics tasks such as transport, guiding humans and inspection in constrained warehouse settings. In parallel, machine learning methods for human activity recognition are explored. A dataset consisting of duman UAV interaction in a warehouse setting is also published on Zenodo. </p>
   </div>
     
 </div>
