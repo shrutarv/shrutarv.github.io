@@ -189,20 +189,18 @@ My main research topic is High speed perception for mobile robots using a combin
       M. Fernandez-Cortizas<sup>2</sup>, 
       C. Reining <sup>1</sup>, P.Arias-Perez<sup>2</sup>, 
       M. A. Luna<sup>2</sup>, D. Perez-Saura<sup>2</sup>, 
-      Moritz Roidl<sup>1,2</sup>
-      
+      Moritz Roidl<sup>1,3</sup>
+      N. Gramse<sup>1</sup>
+      P.Klokowski<sup>3</sup>
+      P.Campoy<sup>2</sup>
     </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
-      <sup>1</sup> TU Dortmund · <sup>2</sup> Lamarr Institute
+      <sup>1</sup> TU Dortmund · <sup>2</sup> UPM Madrid    <sup>2</sup> Fraunhofer IML Dortmund
     </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
-      CVPR 2025 — Workshop on Event-based Vision
+      Logistics Research Journal
     </p>
     <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
-      <a href="https://arxiv.org/abs/2504.02812" target="_blank" rel="noopener"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
-      </a>
       <a href="https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.html" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
          CVF
