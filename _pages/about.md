@@ -200,7 +200,7 @@ My main research topic is High speed perception for mobile robots using a combin
       <sup>1</sup> TU Dortmund · <sup>2</sup> UPM Madrid    <sup>3</sup> Fraunhofer IML Dortmund
     </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
-      <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" target="_blank" rel="noopener"
+      <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" target="_blank" rel="noopener">
       Logistics Research Journal
     </p>
     </div>
