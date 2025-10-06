@@ -203,8 +203,7 @@ My main research topic is High speed perception for mobile robots using a combin
       <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" target="_blank" rel="noopener">
       Logistics Research Journal
     </p>
-    </div>
-
+    
     
 </div>
 
