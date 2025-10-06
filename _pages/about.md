@@ -168,6 +168,57 @@ My main research topic is High speed perception for mobile robots using a combin
     <p style="margin:0.4rem 0;">This project investigates the integration of micro–unmanned aerial vehicle (UAV) swarms in indoor industrial environments, focusing on safe human–robot collaboration and perception-driven autonomy.</p>
     <p style="margin:0.4rem 0;">A comprehensive framework and digital-twin simulation is developed to demonstrate the feasibility of UAV swarms performing logistics tasks such as transport, guiding humans and inspection in constrained warehouse settings. In parallel, machine learning methods for human activity recognition are explored. A dataset consisting of duman UAV interaction in a warehouse setting is also published on Zenodo. </p>
   </div>
+
+  <h2>Publications</h2> 
+<!-- Review 
+  <!-- Left: 2:3 image box -->
+  <div class="pub-thumb" style="position:relative; display:inline-block; background:#f9f9f9; border-radius:6px; overflow:hidden;">
+  <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
+       style="max-width:100%; height:auto; display:block;">
+</div>
+
+  <!-- Right: paper info -->
+  <div class="pub-meta" style="line-height:1.35;">
+    <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
+      <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+        Micro UAV Swarm for industrial applications in indoor environment – A Systematic Literature Review
+      </a>
+    </h3>
+    <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
+      <span style="font-weight:600;">*</span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
+      M. Fernandez-Cortizas<sup>2</sup>, 
+      C. Reining <sup>1</sup>, P.Arias-Perez<sup>2</sup>, 
+      M. A. Luna<sup>2</sup>, D. Perez-Saura<sup>2</sup>, 
+      Moritz Roidl<sup>1,2</sup>
+      
+    </p>
+    <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
+      <sup>1</sup> TU Dortmund · <sup>2</sup> Lamarr Institute
+    </p>
+    <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
+      CVPR 2025 — Workshop on Event-based Vision
+    </p>
+    <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
+      <a href="https://arxiv.org/abs/2504.02812" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
+      </a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.html" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         CVF
+      </a>
+      <a href="https://huggingface.co/datasets/anas-gouda/mtevent" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/hf-logo.png" alt="Hugging Face" style="height:16px;"> Dataset
+      </a>
+      <a href="https:https://github.com/shrutarv/MTevent_toolkit" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/github-logo.jpg" alt="GitHub" style="height:16px;"> MTevent Toolkit
+      </a>
+      
+    </p>
+  </div>
+
     
 </div>
 
