@@ -197,27 +197,13 @@ My main research topic is High speed perception for mobile robots using a combin
       P.Campoy<sup>2</sup>
     </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
-      <sup>1</sup> TU Dortmund · <sup>2</sup> UPM Madrid    <sup>2</sup> Fraunhofer IML Dortmund
+      <sup>1</sup> TU Dortmund · <sup>2</sup> UPM Madrid    <sup>3</sup> Fraunhofer IML Dortmund
     </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
+      <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" target="_blank" rel="noopener"
       Logistics Research Journal
     </p>
-    <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
-      <a href="https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.html" target="_blank" rel="noopener"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         CVF
-      </a>
-      <a href="https://huggingface.co/datasets/anas-gouda/mtevent" target="_blank" rel="noopener"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/hf-logo.png" alt="Hugging Face" style="height:16px;"> Dataset
-      </a>
-      <a href="https:https://github.com/shrutarv/MTevent_toolkit" target="_blank" rel="noopener"
-         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/github-logo.jpg" alt="GitHub" style="height:16px;"> MTevent Toolkit
-      </a>
-      
-    </p>
-  </div>
+    </div>
 
     
 </div>
