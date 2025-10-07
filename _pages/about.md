@@ -205,7 +205,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </p>       
 </div>
-
+ </div>  
 
 <!-- IFAC MIM -->
   <!-- Left: 2:3 image box -->
