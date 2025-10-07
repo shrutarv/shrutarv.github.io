@@ -187,7 +187,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </h3>
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      <span style="font-weight:600;">*</span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
+      <span style="font-weight:600;"></span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
       M. Fernandez-Cortizas<sup>2</sup>, 
       C. Reining <sup>1</sup>, P.Arias-Perez<sup>2</sup>, 
       M. A. Luna<sup>2</sup>, D. Perez-Saura<sup>2</sup>, 
@@ -224,7 +224,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </h3>
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      <span style="font-weight:600;">*</span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
+      <span style="font-weight:600;"></span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
       Lisa Thomaschewski<sup>2</sup>, 
       Sven Franke<sup>1</sup>, O Vogel<sup>2</sup>, 
       C Reining<sup>1</sup>, A Kluge<sup>2</sup>
