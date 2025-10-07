@@ -170,7 +170,7 @@ My main research topic is High speed perception for mobile robots using a combin
   </div>
 
   <h2>Publications</h2> 
-<!-- Review 
+<!-- Review -->
   <!-- Left: 2:3 image box -->
  <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
@@ -206,7 +206,8 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>       
 </div>
 
-<!-- Review 
+
+<!-- IFAC MIM -->
   <!-- Left: 2:3 image box -->
  <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
@@ -236,7 +237,7 @@ My main research topic is High speed perception for mobile robots using a combin
       
     </p>       
 </div>
-
+</div>  
 </section>
 
 
