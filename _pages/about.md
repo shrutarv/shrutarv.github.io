@@ -267,13 +267,12 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </h3>
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      <span style="font-weight:600;"></span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
-      Fernando Moya Rueda <sup>1</sup>,
-      Gernot A. Fink<sup>1</sup> 
+      <span style="font-weight:600;"></span><strong>Shrutarv Awasthi</strong>, 
+      Fernando Moya Rueda,
+      Gernot A. Fink 
           </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
-      <sup>1</sup> Pattern Recognition in Embedded Systems Group
-TU Dortmund    </p>
+      Pattern Recognition in Embedded Systems Group TU Dortmund    </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
        ICPR 2022      
     </p>       
