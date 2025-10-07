@@ -243,7 +243,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
       <a href="https://zenodo.org/records/14181589" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:left; gap:0.35rem;">
-         <img src="/images_content/zenodo.png" alt="GitHub" style="height:16px;"> Dataset
+         <img src="/images_content/zenodo.png" alt="Zenodo" style="height:16px;"> Dataset
       </a>
     </p>
 
