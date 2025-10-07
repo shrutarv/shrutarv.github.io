@@ -202,11 +202,40 @@ My main research topic is High speed perception for mobile robots using a combin
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
       <a href="https://www.researchgate.net/publication/376353511_Micro_UAV_Swarm_for_industrial_applications_in_indoor_environment_-_A_Systematic_Literature_Review" target="_blank" rel="noopener">
       Logistics Research Journal
-    </p>
-    
-    
+      </a>
+    </p>       
 </div>
 
+<!-- Review 
+  <!-- Left: 2:3 image box -->
+ <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <!-- Left: thumbnail -->
+<div class="pub-thumb" style="width:100%; text-align:center;"> 
+     <img src="/images_content/top_view_1.jpg" alt="HDI logo"
+       loading="lazy"
+       style="height:180px; width:auto;">
+</div>
+  <!-- Right: paper info -->
+  <div class="pub-meta" style="line-height:1.35;">
+    <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
+      <a href="https://www.researchgate.net/profile/Annette-Kluge/publication/395926075_Human-UAV_Collaboration_in_Warehousing/links/68dbd8fef3032e2b4be4a737/Human-UAV-Collaboration-in-Warehousing.pdf" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+        Human-UAV Collaboration in Warehousing
+      </a>
+    </h3>
+    <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
+      <span style="font-weight:600;">*</span><strong>Shrutarv Awasthi</strong><sup>1</sup>, 
+      Lisa Thomaschewski<sup>2</sup>, 
+      Sven Franke<sup>1</sup>, O Vogel<sup>2</sup>, 
+      C Reining<sup>1</sup>, A Kluge<sup>2</sup>
+    </p>
+    <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
+      <sup>1</sup> TU Dortmund · <sup>2</sup> Ruhr University Bochum
+    </p>
+    <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
+       IFAC MIM 2025
+      
+    </p>       
+</div>
 
 </section>
 
