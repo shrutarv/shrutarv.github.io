@@ -17,7 +17,7 @@ My main research topic is High speed perception for mobile robots using a combin
 <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
 <li>[May 2025] Presented the MTevent paper <strong> CVPR – Event Vision workshop</strong></li>
 <li>[October 2024] Our EventRec Project on high speed robot perception officially started with industrial partners.</li>
-<li>[August 2024] 🏆 Secured the <strong> AIF funding </strong>strong>(Allianz for Industrie & research) for the Event camera project.</li>
+<li>[August 2024] 🏆 Secured the <strong> AIF funding </strong>(Allianz for Industry & research) for the Event camera project.</li>
 <li>[September 2023] Published at Logistics Journal: Micro UAV swarm for industrial applications in indoor environment: a systematic literature review</li>
 <li>[August 2022] Presented at <strong>ICPR </strong>: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
 <li>[September 2022] Presented at MHCL: UAVs for industries and supply chain management</li>
@@ -172,7 +172,7 @@ My main research topic is High speed perception for mobile robots using a combin
   <h2>Publications</h2> 
 <!-- Review -->
   <!-- Left: 2:3 image box -->
- <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+ <div id="review" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/smart_factory.jpg" alt="HDI logo"
@@ -209,7 +209,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 <!-- IFAC MIM -->
   <!-- Left: 2:3 image box -->
- <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+ <div id="mim" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/top_view_1.png" alt="HDI logo"
@@ -252,7 +252,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 <!-- ICPR 2022 -->
   <!-- Left: 2:3 image box -->
- <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+ <div id="icpr" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/network.gif" alt="ICPR"
@@ -293,7 +293,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 <!-- MHCL 2022 -->
   <!-- Left: 2:3 image box -->
- <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+ <div id="mhcl" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/Wander4.jpg" alt="ICPR"
@@ -336,7 +336,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 <!-- AiSOLA 2022 -->
   <!-- Left: 2:3 image box -->
- <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+ <div id="aisola" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/aisola.png" alt="ICPR"
@@ -365,7 +365,7 @@ My main research topic is High speed perception for mobile robots using a combin
 </section>
 
 
-## Publications
+## Other Publications
 
 <section class="Other Publications">
 
@@ -384,7 +384,7 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </h3>
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      Anas Gouda <sup>1,3</sup>, <strong>Shrutarv Awasthi</strong>strong><sup>1</sup>,
+      Anas Gouda <sup>1,3</sup>, <strong>Shrutarv Awasthi</strong><sup>1</sup>,
       Christian Blesing<sup>2</sup>, Lokeshwaran Manohar<sup>1</sup>, 
       Frank Hoffmann<sup>1</sup>, Alice Kirchheim<sup>1,2,3</sup>
     </p>
@@ -405,5 +405,5 @@ My main research topic is High speed perception for mobile robots using a combin
       </a>
     </p>
   </div>
-</div>
+ </div>
 </section>
