@@ -323,7 +323,7 @@ My main research topic is High speed perception for mobile robots using a combin
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
          <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
       </a>
-      <a href=https://github.com/shrutarv/Human_drone_swarm_interaction_indoor" target="_blank" rel="noopener"
+      <a href="https://github.com/shrutarv/Human_drone_swarm_interaction_indoor" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:left; gap:0.35rem;">
          <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> GitHub
       </a>
