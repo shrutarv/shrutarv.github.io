@@ -352,10 +352,10 @@ My main research topic is High speed perception for mobile robots using a combin
     </h3>
     <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
       <span style="font-weight:600;"></span> 
-      Annette Kluge, Lisa Thomaschewski, Olga Vogel, Christopher Reining, Sven Franke, Markus Pauly, Shrutarv Awasthi, Moritz Roidl
+      Annette Kluge, Lisa Thomaschewski, Olga Vogel, Christopher Reining, Sven Franke, Markus Pauly, <strong>Shrutarv Awasthi</strong>, Moritz Roidl
           </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
-      TU Dortmund    </p>
+      TU Dortmund, Ruhr university Bochum    </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
        MHCL 2022      
     </p>       
@@ -367,7 +367,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 ## Publications
 
-<section class="publications">
+<section class="Other Publications">
 
 <!-- MR6D -->
 <div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
