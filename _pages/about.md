@@ -364,7 +364,7 @@ My main research topic is High speed perception for mobile robots using a combin
 
 
 
-<h2>Other Publications</h2>
+<h2>Publications</h2>
 
 <section class="Other Publications">
 
