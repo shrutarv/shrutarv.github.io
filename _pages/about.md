@@ -333,6 +333,49 @@ My main research topic is High speed perception for mobile robots using a combin
 </div>
 </div>  
 
+
+<!-- AiSOLA 2022 -->
+  <!-- Left: 2:3 image box -->
+ <div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <!-- Left: thumbnail -->
+<div class="pub-thumb" style="width:100%; text-align:center;"> 
+     <img src="/images_content/aisola.png" alt="ICPR"
+       loading="lazy"
+       style="height:180px; width:auto;">
+</div>
+  <!-- Right: paper info -->
+  <div class="pub-meta" style="line-height:1.35;">
+    <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
+      <a href="https://osf.io/pw2bs/overview" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+        MinDrone–Understanding process components of Theory of the Artificial Mind–the case of Indoor Drone-Logistics
+      </a>
+    </h3>
+    <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
+      <span style="font-weight:600;"></span><strong>Shrutarv Awasthi</strong>, 
+      Nils Gramse,
+      Christopher Reining,
+      Moritz Roidl
+          </p>
+    <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
+      TU Dortmund    </p>
+    <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
+       MHCL 2022      
+    </p>       
+     <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
+      <a href="https://arxiv.org/pdf/2212.03346" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
+      </a>
+      <a href="https://github.com/shrutarv/Human_drone_swarm_interaction_indoor" target="_blank" rel="noopener"
+         style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:left; gap:0.35rem;">
+         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> GitHub
+      </a>
+      
+    </p>
+
+</div>
+</div>  
+
 </section>
 
 
