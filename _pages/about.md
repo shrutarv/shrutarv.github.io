@@ -149,10 +149,10 @@ My main research topic is High speed perception for mobile robots using a combin
   </div>
 </div>
 
-<!-- Project: Human UAV Collaboration in Warehousing -->
+<!-- Project: Drone Trust -->
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.5rem 0;">
-    Project Title: Human UAV Collaboration in Warehousing <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
+    Project Title: Drone Trust <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
     TU Dortmund (2021 – 2024)
