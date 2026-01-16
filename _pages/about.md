@@ -8,10 +8,10 @@ redirect_from:
 
 I am a Researcher in the field of Computer Vision and Robotics at Techincal University Dortmund, where I also completed my MSc in Automation and Robotics. My research area is high speed perception and human drone interaction in warehouse like environments. I work at the logistics facility of TU Dortmund which is also shared by the Fraunhofer IML. I have hands on experience in deep learning, computer vision, and robotics. 
 
-<p style="color: #0000FF; font-weight: bold;">Seeking research and industry opportunities</p> 
+<p style="color: #3498db; font-weight: bold;">Seeking research and industry opportunities</p> 
 
 ## 📰Updates 
-<div style="font-size: 0.8em;"line-height: 1.5; margin-left: 1.5rem;">
+<div style="font-size: 0.8em; line-height: 1.5; margin-left: 1.5rem;">
   <li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
   <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
   <li>[May 2025] Presented the MTevent paper at <strong> CVPR – Event Vision workshop</strong></li>
