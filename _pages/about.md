@@ -342,7 +342,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
       Project Page
     </a>
   </p>
-</div>
+
   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
   <img src="/images_content/eventrec_cam_system.jpg" alt="EventRec camera system"
        loading="lazy"
@@ -362,7 +362,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
       <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
     </p>
   </div>
-  
+</div>  
 
 
 
