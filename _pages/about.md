@@ -106,31 +106,6 @@ My main research topic is High speed perception for mobile robots using a combin
 
  
 
-<div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
-  <div class="pub-thumb" style="width:100%; text-align:center;"> 
-       <img src="/images_content/Event_as_ROI.png" alt="Event RPN" loading="lazy" style="height:180px; width:auto;">
-  </div>
-  <div class="pub-meta" style="line-height:1.35;">
-    <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
-      <a href="https://arxiv.org/abs/2305.00718" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
-        Event Camera as Region Proposal Network
-      </a>
-    </h3>
-    <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
-      <strong>Shrutarv Awasthi</strong>, Richard Julian Lodenkaemper, Anas Gouda, Moritz Roidl
-    </p>
-    <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">TU Dortmund</p>
-    <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">Preprint 2023</p>
-    <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
-      <a href="https://arxiv.org/abs/2305.00718" target="_blank" rel="noopener" style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
-      </a>
-      <a href="https://github.com/shrutarv/EventCamera_RPN" target="_blank" rel="noopener" style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> GitHub
-      </a>
-    </p>
-  </div>
-</div>
 
 <!-- Review -->
   <!-- Left: 2:3 image box -->
@@ -296,7 +271,7 @@ My main research topic is High speed perception for mobile robots using a combin
 </div>  
 
 
-<!-- AiSOLA 2022 -->
+<!-- AiSOLA 2025 -->
   <!-- Left: 2:3 image box -->
  <div id="aisola" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
@@ -323,6 +298,33 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>       
   </div>
 </div>  
+
+
+<div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <div class="pub-thumb" style="width:100%; text-align:center;"> 
+       <img src="/images_content/Event_as_ROI.png" alt="Event RPN" loading="lazy" style="height:180px; width:auto;">
+  </div>
+  <div class="pub-meta" style="line-height:1.35;">
+    <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
+      <a href="https://arxiv.org/abs/2305.00718" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+        Event Camera as Region Proposal Network
+      </a>
+    </h3>
+    <p class="pub-authors" style="margin:0.2em 0; color:#1b2747;">
+      <strong>Shrutarv Awasthi</strong>, Richard Julian Lodenkaemper, Anas Gouda, Moritz Roidl
+    </p>
+    <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">TU Dortmund</p>
+    <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">Preprint 2023</p>
+    <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
+      <a href="https://arxiv.org/abs/2305.00718" target="_blank" rel="noopener" style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
+      </a>
+      <a href="https://github.com/shrutarv/EventCamera_RPN" target="_blank" rel="noopener" style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> GitHub
+      </a>
+    </p>
+  </div>
+</div>
 
 
 
