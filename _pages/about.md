@@ -385,6 +385,10 @@ My main research topic is High speed perception for mobile robots using a combin
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
         <p style="margin:0.4rem 0;"><strong> Project Description: </strong>This project investigates the integration of micro–unmanned aerial vehicle (UAV) swarms in indoor industrial environments, focusing on safe human–robot collaboration and perception-driven autonomy.</p>
     <p style="margin:0.4rem 0;">A comprehensive framework and digital-twin simulation is developed to demonstrate the feasibility of UAV swarms performing logistics tasks such as transport, guiding humans and inspection in constrained warehouse settings. In parallel, machine learning methods for human activity recognition are explored. A dataset consisting of human UAV interaction in a warehouse setting is also published on Zenodo. </p>
+<p style="margin:0.4rem 0;">
+      <strong>Partners:</strong> Ruhr University Bochum, UPM Madrid, Fraunhofer IML Dortmund, Technical University Dortmund.
+    </p>
+    
   </div>
 
 
