@@ -149,7 +149,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/top_view_1.png" alt="HDI logo"
        loading="lazy"
-       style="height:180px; width:auto;">
+       style="height:220px; width:auto;">
 </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
