@@ -327,7 +327,6 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 
 
 ## Projects
-<section class="projects">
 
 <!-- Project: EventRec -->
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
