@@ -11,7 +11,7 @@ I am a Researcher at the Technical University Dortmund (TU Dortmund) working on 
 My main research topic is High speed perception for mobile robots using a combination of stereo setup of event camera and RGB camera. 
 
 ## 📰Updates 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.7em;">
 <li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
 <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
 <li>[May 2025] Presented the MTevent paper <strong> CVPR – Event Vision workshop</strong></li>
