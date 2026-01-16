@@ -60,7 +60,7 @@ My main research topic is High speed perception for mobile robots using a combin
          <img src="/images_content/hf-logo.png" alt="Hugging Face" style="height:16px;"> Dataset
       </a>
       <a href="https://github.com/shrutarv/MTevent_toolkit" target="_blank" rel="noopener" style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         <img src="/images_content/github-logo.jpg" alt="GitHub" style="height:16px;"> MTevent Toolkit
+         <img src="/images_content/github-logo.svg" alt="GitHub" style="height:16px;"> MTevent Toolkit
       </a>
     </p>
   </div>
@@ -389,4 +389,3 @@ My main research topic is High speed perception for mobile robots using a combin
 
 
 
-</section>
