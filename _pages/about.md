@@ -12,23 +12,28 @@ My main research topic is High speed perception for mobile robots using a combin
 
 ## 📰Updates 
 <div style="font-size: 0.7em;">
-<li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
-<li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
-<li>[May 2025] Presented the MTevent paper <strong> CVPR – Event Vision workshop</strong></li>
-<li>[October 2024] Our EventRec Project on high speed robot perception officially started with industrial partners.</li>
-<li>[August 2024] 🏆 Secured the <strong> AIF funding </strong>(Allianz for Industry & research) for the Event camera project.</li>
-<li>[September 2023] Published at Logistics Journal: Micro UAV swarm for industrial applications in indoor environment: a systematic literature review</li>
-<li>[August 2022] Presented at <strong>ICPR </strong>: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
-<li>[September 2022] Presented at MHCL: UAVs for industries and supply chain management</li>
-<\div>
+  <li>[August 2025] MR6D paper accepted at <strong>ICCV R6D Workshop</strong></li>
+  <li>[June 2025] Presented at IFAC 2025: Human-UAV Collaboration in Warehousing</li>  
+  <li>[May 2025] Presented the MTevent paper <strong> CVPR – Event Vision workshop</strong></li>
+  <li>[October 2024] Our EventRec Project on high speed robot perception officially started with industrial partners.</li>
+  <li>[August 2024] 🏆 Secured the <strong> AIF funding </strong>(Allianz for Industry & research) for the Event camera project.</li>
+  <li>[September 2023] Published at Logistics Journal: Micro UAV swarm for industrial applications in indoor environment: a systematic literature review</li>
+  <li>[August 2022] Presented at <strong>ICPR </strong>: Video-based pose-estimation data as source for transfer learning in human activity recognition</li>
+  <li>[September 2022] Presented at MHCL: UAVs for industries and supply chain management</li>
+</div>
   
 
 ## Publications
 <!-- MTevent 
   <!-- Left: 2:3 image box -->
-  <div class="pub-thumb" style="position:relative; display:inline-block; background:#f9f9f9; border-radius:6px; overflow:hidden;">
-  <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
-       style="max-width:100%; height:auto; display:block;">
+
+
+<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <!-- Left: thumbnail -->
+<div class="pub-thumb" style="width:100%; text-align:center;"> 
+     <img src="/images_content/Event_as_ROI.png" MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
+       display:block;"
+       style="height:180px; width:auto;">
 </div>
 
   <!-- Right: paper info -->
