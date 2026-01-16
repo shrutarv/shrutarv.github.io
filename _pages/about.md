@@ -32,8 +32,7 @@ My main research topic is High speed perception for mobile robots using a combin
   <!-- Left: thumbnail -->
 <div class="pub-thumb" style="width:100%; text-align:center;"> 
      <img src="/images_content/MTevent_object.gif" alt="MTevent teaser image" loading="lazy"
-       display:block;"
-       style="height:180px; width:auto;">
+           style="height:180px; width:auto;">
 </div>
 
   <!-- Right: paper info -->
