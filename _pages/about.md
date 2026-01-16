@@ -23,46 +23,7 @@ My main research topic is High speed perception for mobile robots using a combin
 <\div>
   
 
-
-## Projects
-<section class="projects">
-
-<!-- Project: EventRec -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
-  <h3 style="margin:0 0 0.5rem 0;">
-    EventRec <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
-  </h3>
-  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
-    TU Dortmund · (2023 – Ongoing)
-  </p>
-  <p style="margin:0.25rem 0 1rem 0;">
-    <a href="https://flw.mb.tu-dortmund.de/research/research-projects/eventrec" target="_blank" rel="noopener"
-       style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
-      Project Page
-    </a>
-  </p>
-  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
-  <img src="/images_content/eventrec_cam_system.jpg" alt="EventRec camera system"
-       loading="lazy"
-       style="height:180px; width:auto;">
-  <img src="/images_content/EventRec.jpg" alt="EventRec O³dyn robot"
-       loading="lazy"
-       style="height:180px; width:auto;">
-  </div>
-  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
-    <p style="margin:0.4rem 0;">
-      I proposed and led the EventRec project, taking it from concept to securing funding from the AIF/IGF in close collaboration with colleagues. 
-    </p>
-    <p style="margin:0.4rem 0;">
-      The project aims to enable high-speed robots to perceive and interact with their environment using event cameras. As project lead, I managed a small research team that created the MTEvent dataset and am currently working on developing novel methods for 3D detection of moving objects, advancing real-time perception capabilities for robots to navigate safely and efficiently in dynamic environments at high speed.
-    </p>
-    <p style="margin:0.4rem 0;">
-      <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
-    </p>
-  </div>
-  
-<h2>Publications</h2> 
-
+## Publications
 <!-- MTevent 
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; display:inline-block; background:#f9f9f9; border-radius:6px; overflow:hidden;">
@@ -147,6 +108,47 @@ My main research topic is High speed perception for mobile robots using a combin
     </p>
   </div>
 </div>
+
+
+## Projects
+<section class="projects">
+
+<!-- Project: EventRec -->
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
+  <h3 style="margin:0 0 0.5rem 0;">
+    EventRec <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
+  </h3>
+  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
+    TU Dortmund · (2023 – Ongoing)
+  </p>
+  <p style="margin:0.25rem 0 1rem 0;">
+    <a href="https://flw.mb.tu-dortmund.de/research/research-projects/eventrec" target="_blank" rel="noopener"
+       style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
+      Project Page
+    </a>
+  </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+  <img src="/images_content/eventrec_cam_system.jpg" alt="EventRec camera system"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  <img src="/images_content/EventRec.jpg" alt="EventRec O³dyn robot"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">
+      I proposed and led the EventRec project, taking it from concept to securing funding from the AIF/IGF in close collaboration with colleagues. 
+    </p>
+    <p style="margin:0.4rem 0;">
+      The project aims to enable high-speed robots to perceive and interact with their environment using event cameras. As project lead, I managed a small research team that created the MTEvent dataset and am currently working on developing novel methods for 3D detection of moving objects, advancing real-time perception capabilities for robots to navigate safely and efficiently in dynamic environments at high speed.
+    </p>
+    <p style="margin:0.4rem 0;">
+      <strong>Industry partners:</strong> KION, Jungheinrich, Framos, Safelog and others.
+    </p>
+  </div>
+  
+
+
 
 <!-- Project: Drone Trust -->
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
