@@ -292,7 +292,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em; color:#53618f;">
       TU Dortmund, Ruhr university Bochum    </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic; color:#2d3f74;">
-       MHCL 2022      
+       AiSOLA 2025      
     </p>       
   </div>
 </div>  
