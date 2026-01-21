@@ -281,7 +281,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
-      <a href="https://osf.io/pw2bs/overview" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+      <a href="https://osf.io/wjn7c/overview" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
         MinDrone–Understanding process components of Theory of the Artificial Mind–the case of Indoor Drone-Logistics
       </a>
     </h3>
