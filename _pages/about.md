@@ -391,55 +391,47 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 </div>
 
 ## About Me
-<section class="about-me-container">
-  <h2 class="main-title">About Me</h2>
-  
-  <div class="about-me-grid">
-    <div class="card">
-      <h3 class="card-title">Work Experience</h3>
-      
-      <div class="entry">
-        <div class="entry-header">
-          <strong>Research Associate</strong>
-          <span class="date">2023 – Present · Dortmund</span>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding-right: 15px; border: none;">
+      <div style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); border: 1px solid #f0f0f0;">
+        <h3 style="color: #1a365d; margin-top: 0; font-family: sans-serif;">Work Experience</h3>
+        <div style="margin-bottom: 20px; font-family: sans-serif;">
+          <strong style="color: #2d3748; display: block;">Research Associate</strong>
+          <span style="color: #718096; font-size: 0.85em;">2023 – Present · Dortmund</span><br>
+          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">LAMARR Institute for AI</span>
+          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
+            Conducting research on deep learning and computer vision for robotic grasping and high-speed perception.
+          </p>
         </div>
-        <p class="institution">LAMARR Institute for Machine Learning and Artificial Intelligence</p>
-        <p class="description">Conduct research on deep learning and computer vision for robotic grasping and high-speed perception.</p>
-      </div>
-
-      <div class="entry">
-        <div class="entry-header">
-          <strong>Research Associate</strong>
-          <span class="date">2020 – Present · Dortmund</span>
+        <div style="margin-bottom: 20px; font-family: sans-serif;">
+          <strong style="color: #2d3748; display: block;">Research Associate</strong>
+          <span style="color: #718096; font-size: 0.85em;">2020 – Present · Dortmund</span><br>
+          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund – Chair of Materials Handling</span>
+          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
+            Teaching cyber-physical systems and managing research tooling and servers.
+          </p>
         </div>
-        <p class="institution">TU Dortmund – Chair of Materials Handling and Warehousing</p>
-        <p class="description">Teach cyber-physical systems while managing departmental servers, backups, and research tooling.</p>
       </div>
-      
-      </div>
-
-    <div class="card">
-      <h3 class="card-title">Education</h3>
-      
-      <div class="entry">
-        <div class="entry-header">
-          <strong>PhD · Computer Vision for Robotics</strong>
-          <span class="date">2021 – Q2 2026</span>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 15px; border: none;">
+      <div style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); border: 1px solid #f0f0f0;">
+        <h3 style="color: #1a365d; margin-top: 0; font-family: sans-serif;">Education</h3>
+        <div style="margin-bottom: 20px; font-family: sans-serif;">
+          <strong style="color: #2d3748; display: block;">PhD · Computer Vision for Robotics</strong>
+          <span style="color: #718096; font-size: 0.85em;">2021 – Q2 2026</span><br>
+          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund</span>
+          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
+            Researching generalization of deep learning models for robotic grasping.
+          </p>
         </div>
-        <p class="institution">TU Dortmund</p>
-        <p class="description">Researching generalization of deep learning models for robotic grasping.</p>
-      </div>
-
-      <div class="entry">
-        <div class="entry-header">
-          <strong>MSc · Automation & Robotics</strong>
-          <span class="date">2017 – 2020</span>
+        <div style="margin-bottom: 20px; font-family: sans-serif;">
+          <strong style="color: #2d3748; display: block;">MSc · Automation & Robotics</strong>
+          <span style="color: #718096; font-size: 0.85em;">2017 – 2020</span><br>
+          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund</span>
         </div>
-        <p class="institution">TU Dortmund</p>
       </div>
-    </div>
-  </div>
-</section>
-
-
-
+    </td>
+  </tr>
+</table>
