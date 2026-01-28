@@ -455,7 +455,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 
   <h3 style="margin: 0 0 1rem 0; color: #2d3748; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px;">Languages</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 0.8rem;">
-    <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Arabic · Native</span>
+    <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Hindi · Native</span>
     <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">English · Fluent</span>
     <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">German · B1</span>
   </div>
