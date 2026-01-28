@@ -391,20 +391,55 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 </div>
 
 ## About Me
-<div style="flex: 2; min-width: 300px;">
-    <h3>About Me</h3>
-    <p>I am a research associate focusing on <strong>high-speed perception</strong> and <strong>Transformer models</strong>. My work bridges the gap between event-based vision and industrial robotics.</p>
-    
-    <div style="background: #f6f8fa; border-left: 5px solid #007bff; padding: 15px; margin: 20px 0;">
-      <em>Currently seeking industry opportunities starting Q2 2026.</em>
-    </div>
+<section class="about-me-container">
+  <h2 class="main-title">About Me</h2>
+  
+  <div class="about-me-grid">
+    <div class="card">
+      <h3 class="card-title">Work Experience</h3>
+      
+      <div class="entry">
+        <div class="entry-header">
+          <strong>Research Associate</strong>
+          <span class="date">2023 – Present · Dortmund</span>
+        </div>
+        <p class="institution">LAMARR Institute for Machine Learning and Artificial Intelligence</p>
+        <p class="description">Conduct research on deep learning and computer vision for robotic grasping and high-speed perception.</p>
+      </div>
 
-    <h3>Experience</h3>
-    <div style="border-left: 2px solid #eee; padding-left: 20px; position: relative;">
-      <p><strong>Research Associate</strong> | TU Dortmund <span style="float: right; color: #888;">2020 – Present</span></p>
-      <p>Developed digital-twin simulations for UAV swarm logistics and human-robot collaboration.</p>
+      <div class="entry">
+        <div class="entry-header">
+          <strong>Research Associate</strong>
+          <span class="date">2020 – Present · Dortmund</span>
+        </div>
+        <p class="institution">TU Dortmund – Chair of Materials Handling and Warehousing</p>
+        <p class="description">Teach cyber-physical systems while managing departmental servers, backups, and research tooling.</p>
+      </div>
+      
+      </div>
+
+    <div class="card">
+      <h3 class="card-title">Education</h3>
+      
+      <div class="entry">
+        <div class="entry-header">
+          <strong>PhD · Computer Vision for Robotics</strong>
+          <span class="date">2021 – Q2 2026</span>
+        </div>
+        <p class="institution">TU Dortmund</p>
+        <p class="description">Researching generalization of deep learning models for robotic grasping.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong>MSc · Automation & Robotics</strong>
+          <span class="date">2017 – 2020</span>
+        </div>
+        <p class="institution">TU Dortmund</p>
+      </div>
     </div>
   </div>
+</section>
 
 
 
