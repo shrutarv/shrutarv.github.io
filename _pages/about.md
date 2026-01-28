@@ -395,8 +395,12 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
     Work Experience <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
-    TU Dortmund (2021 – 2024)
+   Research Associate
   </p>
+  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
+  2021 - Present   Dortmund
+  </p>
+  
    <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
     <img src="/images_content/hdi.png" alt="HDI logo"
        loading="lazy"
