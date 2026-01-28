@@ -3,8 +3,7 @@ permalink: /
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
----
+  - /about.html---
 
 I am a Researcher in the field of Computer Vision and Robotics at Techincal University Dortmund, where I also completed my MSc in Automation and Robotics. My research area is high speed perception and human drone interaction in warehouse like environments. I work at the logistics facility of TU Dortmund which is also shared by the Fraunhofer IML. I have hands on experience in deep learning, computer vision, and robotics. 
 
@@ -391,47 +390,25 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 </div>
 
 ## About Me
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 15px; border: none;">
-      <div style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); border: 1px solid #f0f0f0;">
-        <h3 style="color: #1a365d; margin-top: 0; font-family: sans-serif;">Work Experience</h3>
-        <div style="margin-bottom: 20px; font-family: sans-serif;">
-          <strong style="color: #2d3748; display: block;">Research Associate</strong>
-          <span style="color: #718096; font-size: 0.85em;">2023 – Present · Dortmund</span><br>
-          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">LAMARR Institute for AI</span>
-          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
-            Conducting research on deep learning and computer vision for robotic grasping and high-speed perception.
-          </p>
-        </div>
-        <div style="margin-bottom: 20px; font-family: sans-serif;">
-          <strong style="color: #2d3748; display: block;">Research Associate</strong>
-          <span style="color: #718096; font-size: 0.85em;">2020 – Present · Dortmund</span><br>
-          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund – Chair of Materials Handling</span>
-          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
-            Teaching cyber-physical systems and managing research tooling and servers.
-          </p>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 15px; border: none;">
-      <div style="background-color: #ffffff; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); border: 1px solid #f0f0f0;">
-        <h3 style="color: #1a365d; margin-top: 0; font-family: sans-serif;">Education</h3>
-        <div style="margin-bottom: 20px; font-family: sans-serif;">
-          <strong style="color: #2d3748; display: block;">PhD · Computer Vision for Robotics</strong>
-          <span style="color: #718096; font-size: 0.85em;">2021 – Q2 2026</span><br>
-          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund</span>
-          <p style="color: #4a5568; font-size: 0.85em; line-height: 1.4; margin-top: 5px;">
-            Researching generalization of deep learning models for robotic grasping.
-          </p>
-        </div>
-        <div style="margin-bottom: 20px; font-family: sans-serif;">
-          <strong style="color: #2d3748; display: block;">MSc · Automation & Robotics</strong>
-          <span style="color: #718096; font-size: 0.85em;">2017 – 2020</span><br>
-          <span style="color: #2c5282; font-weight: 600; font-size: 0.9em; display: block; margin: 4px 0;">TU Dortmund</span>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+<div class="about-me" style="max-width:900px; margin:0 auto; line-height:1.5;">
+  <h3 style="margin:0 rem 0;">
+    Work Experience <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
+  </h3>
+  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
+    TU Dortmund (2021 – 2024)
+  </p>
+   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+    <img src="/images_content/hdi.png" alt="HDI logo"
+       loading="lazy"
+       style="height:280px; width:auto;">
+</div>
+  
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+        <p style="margin:0.4rem 0;"><strong> Project Description: </strong>This project investigates the integration of micro–unmanned aerial vehicle (UAV) swarms in indoor industrial environments, focusing on safe human–robot collaboration and perception-driven autonomy.</p>
+    <p style="margin:0.4rem 0;">A comprehensive framework and digital-twin simulation is developed to demonstrate the feasibility of UAV swarms performing logistics tasks such as transport, guiding humans and inspection in constrained warehouse settings. In parallel, machine learning methods for human activity recognition are explored. A dataset consisting of human UAV interaction in a warehouse setting is also published on Zenodo. </p>
+<p style="margin:0.4rem 0;">
+      <strong>Partners:</strong> Ruhr University Bochum, UPM Madrid, Fraunhofer IML Dortmund, Technical University Dortmund.
+    </p>
+    
+  </div>
+</div>
