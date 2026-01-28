@@ -388,9 +388,23 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
     </p>
     
   </div>
+</div>
 
 ## About Me
+<div style="flex: 2; min-width: 300px;">
+    <h3>About Me</h3>
+    <p>I am a research associate focusing on <strong>high-speed perception</strong> and <strong>Transformer models</strong>. My work bridges the gap between event-based vision and industrial robotics.</p>
+    
+    <div style="background: #f6f8fa; border-left: 5px solid #007bff; padding: 15px; margin: 20px 0;">
+      <em>Currently seeking industry opportunities starting Q2 2026.</em>
+    </div>
 
+    <h3>Experience</h3>
+    <div style="border-left: 2px solid #eee; padding-left: 20px; position: relative;">
+      <p><strong>Research Associate</strong> | TU Dortmund <span style="float: right; color: #888;">2020 – Present</span></p>
+      <p>Developed digital-twin simulations for UAV swarm logistics and human-robot collaboration.</p>
+    </div>
+  </div>
 
 
 
