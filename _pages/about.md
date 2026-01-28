@@ -391,3 +391,34 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 </div>
 
 ## About Me
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin-top: 1rem; font-family: sans-serif;">
+
+  <div style="flex: 1; min-width: 320px; max-width: 500px; padding: 1.5rem; border-radius: 10px; background: #f8f9fb; box-shadow: 0 12px 28px rgba(15, 30, 65, 0.08);">
+    <h3 style="margin: 0 0 1rem 0; color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">Work Experience</h3>
+    <div style="margin-bottom: 1.5rem;">
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Research Associate</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2023 – Present · Dortmund</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">LAMARR Institute for Machine Learning and AI</p>
+      <p style="margin: 0; font-size: 0.9em; line-height: 1.5; color: #4a5568;">Conducting research on deep learning and computer vision for robotic grasping and high-speed perception.</p>
+    </div>
+    <div style="margin-bottom: 1.5rem;">
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Research Associate</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2020 – Present · Dortmund</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund – Chair of Materials Handling</p>
+    </div>
+  </div>
+
+  <div style="flex: 1; min-width: 320px; max-width: 500px; padding: 1.5rem; border-radius: 10px; background: #f8f9fb; box-shadow: 0 12px 28px rgba(15, 30, 65, 0.08);">
+    <h3 style="margin: 0 0 1rem 0; color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">Education</h3>
+    <div style="margin-bottom: 1.5rem;">
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">PhD · Computer Vision for Robotics</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2021 – Q2 2026 (Expected)</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund</p>
+    </div>
+    <div style="margin-bottom: 1.5rem;">
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">MSc · Automation & Robotics</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2017 – 2020</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund</p>
+    </div>
+  </div>
+</div>
