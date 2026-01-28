@@ -397,14 +397,14 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
     <h3 style="margin: 0 0 1rem 0; color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">Work Experience</h3>
     <div style="margin-bottom: 1.5rem;">
       <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Research Associate</h4>
-      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2023 – Present · Dortmund</p>
-      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">LAMARR Institute for Machine Learning and AI</p>
-      <p style="margin: 0; font-size: 0.9em; line-height: 1.5; color: #4a5568;">Conducting research on deep learning and computer vision for robotic grasping and high-speed perception.</p>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2021 – Present · Dortmund</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;"></p>
+      <p style="margin: 0; font-size: 0.9em; line-height: 1.5; color: #4a5568;">Researching in the field of high-speed perception and human UAV collaboration in Warehouse logistics.</p>
     </div>
     <div style="margin-bottom: 1.5rem;">
-      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Research Associate</h4>
-      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2020 – Present · Dortmund</p>
-      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund – Chair of Materials Handling</p>
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Technology Analyst</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2014 – 2018 · India</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">Infosys Limited</p>
     </div>
   </div>
 
