@@ -402,9 +402,9 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
       <p style="margin: 0; font-size: 0.9em; line-height: 1.5; color: #4a5568;">Researching in the field of high-speed perception and human UAV collaboration in Warehouse logistics.</p>
     </div>
      <div style="margin-bottom: 1.5rem;">
-      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Student Resrearcg Assistant</h4>
-      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2014 – 2018 · India</p>
-      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">Infosys Limited</p>
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Student Resrearch Assistant</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2019 – 2021 · Dortmund</p>
+       <p style="margin: 0; font-size: 0.9em; line-height: 1.5; color: #4a5568;">Engineered unit tests for Deep Reinforcement Learning workflows and conducted predictive demand forecasting for Germany's EV charging infrastructure.</p>
     </div>
     <div style="margin-bottom: 1.5rem;">
       <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">Technology Analyst</h4>
@@ -415,15 +415,16 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
 
   <div style="flex: 1; min-width: 320px; max-width: 500px; padding: 1.5rem; border-radius: 10px; background: #f8f9fb; box-shadow: 0 12px 28px rgba(15, 30, 65, 0.08);">
     <h3 style="margin: 0 0 1rem 0; color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">Education</h3>
+    
     <div style="margin-bottom: 1.5rem;">
-      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">PhD · Computer Vision for Robotics</h4>
-      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2021 – Q2 2026 (Expected)</p>
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">MSc · Automation & Robotics</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2018 – 2021</p>
       <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund</p>
     </div>
     <div style="margin-bottom: 1.5rem;">
-      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">MSc · Automation & Robotics</h4>
-      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2017 – 2020</p>
-      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">TU Dortmund</p>
+      <h4 style="margin: 0; font-size: 1.1em; color: #2d3748;">B.E. · Electronics & Instrumentation</h4>
+      <p style="margin: 0.2rem 0; font-size: 0.9em; color: #666;">2010 – 2014</p>
+      <p style="margin: 0.4rem 0; font-weight: 600; color: #2c5282;">IET DAVV, Indore, India</p>
     </div>
   </div>
 </div>
@@ -442,20 +443,21 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
     <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">ROS</span>
     <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Deep Learning</span>
     <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">2D/3D Computer Vision</span>
-    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">6D Pose Estimation</span>
-    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Embedded Systems</span>
+    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Human Activity Recognition</span>
+    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Unity</span>
+    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Drone Swarm</span>
     <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">High-Speed Robotics</span>
     <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Mobile Robots</span>
-    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Wireless Sensor Networks</span>
-    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Communication Flooding Protocols</span>
-    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Robotic Grasping</span>
+    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Drone Programming</span>
+    <span style="background: #eef2ff; color: #4351b0; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Transformers</span>
+    
   </div>
 
   <h3 style="margin: 0 0 1rem 0; color: #2d3748; font-size: 1.2em; text-transform: uppercase; letter-spacing: 1px;">Languages</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 0.8rem;">
     <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">Arabic · Native</span>
     <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">English · Fluent</span>
-    <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">German · C1</span>
+    <span style="background: #ecfdf5; color: #065f46; padding: 0.6rem 1.2rem; border-radius: 50px; font-weight: 500; font-size: 0.95em;">German · B1</span>
   </div>
 
 </div>
