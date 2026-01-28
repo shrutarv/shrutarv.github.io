@@ -390,49 +390,7 @@ I am a Researcher in the field of Computer Vision and Robotics at Techincal Univ
   </div>
 
 ## About Me
-<section id="about" class="about-container">
-  <div class="sidebar">
-    <img src="your-photo.jpg" alt="Your Name" class="profile-img">
-    <h2>Your Name</h2>
-    <p class="tagline">Robotics & Computer Vision Researcher</p>
-    
-    <div class="contact-links">
-      <a href="mailto:email@example.com">Email</a>
-      <a href="https://github.com/yourusername">GitHub</a>
-      <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
-    </div>
-  </div>
 
-  <div class="main-content">
-    <div class="bio">
-      <p>I am a research associate specializing in <strong>high-speed perception</strong> and human–UAV collaboration. My work focuses on developing Transformer-based architectures for object detection and safe navigation in dynamic industrial environments.</p>
-      <p class="status-badge">Seeking research and industry opportunities starting Q2 2026.</p>
-    </div>
 
-    <div class="section">
-      <h3 class="section-title">Work Experience</h3>
-      <div class="timeline-item">
-        <div class="item-header">
-          <strong>Research Associate</strong>
-          <span>2020 – Present</span>
-        </div>
-        <p class="location">TU Dortmund University</p>
-        <p>Developed perception frameworks for UAV swarms and led industrial collaboration for high-speed robotic navigation.</p>
-      </div>
-    </div>
-
-    <div class="section">
-      <h3 class="section-title">Skills</h3>
-      <div class="skills-grid">
-        <span class="skill-tag">Python</span>
-        <span class="skill-tag">C++</span>
-        <span class="skill-tag">Deep Learning</span>
-        <span class="skill-tag">Transformers</span>
-        <span class="skill-tag">ROS</span>
-        <span class="skill-tag">Event Vision</span>
-      </div>
-    </div>
-  </div>
-</section>
 
 
